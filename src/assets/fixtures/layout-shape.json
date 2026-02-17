@@ -1,0 +1,17 @@
+{
+  "layout": [
+    {
+      "kind": "section",
+      "label": "Layout Section 1",
+      "rows": [
+        {
+          "type": "row",
+          "modules": [
+            { "kind": "module", "module_type": "text", "label": "A" },
+            { "kind": "module", "module_type": "button", "label": "B" }
+          ]
+        }
+      ]
+    }
+  ]
+}

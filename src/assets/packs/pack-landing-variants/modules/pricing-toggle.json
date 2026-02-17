@@ -1,0 +1,6 @@
+{
+  "kind": "module",
+  "module_type": "pricing",
+  "label": "Pricing Toggle",
+  "style": "switch"
+}
