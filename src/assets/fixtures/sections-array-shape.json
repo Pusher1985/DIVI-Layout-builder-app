@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "section",
+    "label": "Array Section",
+    "modules": [
+      { "kind": "module", "module_type": "image", "label": "Image 1" }
+    ]
+  }
+]

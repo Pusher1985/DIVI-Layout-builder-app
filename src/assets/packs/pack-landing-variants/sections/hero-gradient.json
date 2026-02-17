@@ -1,0 +1,18 @@
+{
+  "kind": "section",
+  "label": "Hero Gradient",
+  "section_type": "fullwidth",
+  "rows": [
+    {
+      "type": "row",
+      "modules": [
+        {
+          "kind": "module",
+          "module_type": "text",
+          "label": "Gradient Headline",
+          "content": "Launch your campaign in hours"
+        }
+      ]
+    }
+  ]
+}

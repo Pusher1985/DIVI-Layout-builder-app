@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "pack-aba-core",
+      "path": "./pack-aba-core"
+    },
+    {
+      "id": "pack-landing-variants",
+      "path": "./pack-landing-variants"
+    }
+  ]
+}

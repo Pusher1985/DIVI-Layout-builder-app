@@ -1,0 +1,18 @@
+{
+  "kind": "section",
+  "label": "Hero Split",
+  "section_type": "regular",
+  "rows": [
+    {
+      "type": "row",
+      "modules": [
+        {
+          "kind": "module",
+          "module_type": "text",
+          "label": "Headline",
+          "content": "Build faster with Divi Layout Builder"
+        }
+      ]
+    }
+  ]
+}
